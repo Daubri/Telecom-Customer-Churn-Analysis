@@ -1,6 +1,6 @@
 # Telecom-Customer-Churn-Analysis 
 <p align="center">
-  <img src="dashboard.png" width="900"/>
+  <img src="dashboard.png" width="1000"/>
 </p>
 📊 Telecom Customer Churn Analysis
 
