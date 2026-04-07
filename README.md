@@ -1,5 +1,7 @@
 # Telecom-Customer-Churn-Analysis 
-![Dashboard](./dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="900"/>
+</p>
 📊 Telecom Customer Churn Analysis
 
 ## 🧠 Project Overview
