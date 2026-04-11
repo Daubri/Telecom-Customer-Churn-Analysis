@@ -1,5 +1,7 @@
 ## 📊 Telecom Customer Churn Analysis (Excel)
-![Telecom Dashboard](dashboard.png)
+## 📊 Telecom Dashboard
+
+<img src="dashboard.png" width="800">
 
 In today's world , almost everyone relies on telecom services
 
