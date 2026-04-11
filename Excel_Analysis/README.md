@@ -1,6 +1,6 @@
 ## 📊 Telecom Customer Churn Analysis (Excel)
 
-
+<img src="dashboard.png" width="900">
 
 In today's world , almost everyone relies on telecom services
 
