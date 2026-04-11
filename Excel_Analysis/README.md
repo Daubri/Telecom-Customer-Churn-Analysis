@@ -1,5 +1,6 @@
 ## 📊 Telecom Customer Churn Analysis (Excel)
-
+## 📊 Dashboard Preview
+![Dashboard](TELECOME CUSTOMER CHURN ANALYSIS DASHBOARD 1.png)
 In today's world , almost everyone relies on telecom services
 
 From daily calls to internet access, it’s part of our everyday lives. But behind this constant usage lies a silent challenge:
