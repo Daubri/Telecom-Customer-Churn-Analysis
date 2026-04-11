@@ -1,5 +1,4 @@
 ## 📊 Telecom Customer Churn Analysis (Excel)
-## 📊 Telecom Dashboard
 
 <img src="dashboard.png" width="800">
 
